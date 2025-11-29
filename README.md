@@ -16,7 +16,7 @@
 
 <h3 align="left">📬 Networks: </h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/lucas-ferreira-b51b69399/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="[https://www.linkedin.com/in/lucas-ferreira-b51b69399/](https://www.linkedin.com/in/lucasferreira-dev-back-end/)" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:lucasferreirasilva.dev@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
