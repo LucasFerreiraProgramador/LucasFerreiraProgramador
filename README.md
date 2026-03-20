@@ -1,10 +1,10 @@
 <h1 align="center">Olá, eu sou o Lucas 👋</h1>
 
-<h2 align="center">👨‍💻 Desenvolvedor Front-End</h2>
+<h2 align="center">👨‍💻 Desenvolvedor Front-End | React • Next.js • TypeScript</h2>
 
 <p align="center">
-  Apaixonado por criar interfaces modernas, responsivas e conectadas com APIs.<br>
-  Evoluindo um pouco mais a cada linha de código.
+  Construo interfaces modernas, responsivas e conectadas a APIs,
+com foco em performance e experiência do usuário.
 </p>
 
 ---
