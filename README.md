@@ -56,14 +56,15 @@ com foco em performance e experiência do usuário.
 ---
 
 ## 🧩 Sobre mim
-🧠 Desenvolvedor Front-End focado em criar interfaces modernas e performáticas
 
-🚀 Experiência prática com consumo de APIs REST e integração de sistemas
-⚛️ Desenvolvimento com React, Next.js e TypeScript, aplicando componentização e boas práticas
-🎯 Foco em código limpo, reutilizável e escalável
-📚 Em constante evolução, aplicando na prática conceitos de UI/UX e arquitetura front-end
+🧠 Desenvolvedor Front-End focado em criar interfaces modernas e performáticas  
 
-🔥 Atualmente desenvolvendo projetos reais para consolidar experiência de mercado
+- 🚀 Experiência prática com consumo de APIs REST e integração de sistemas  
+- 🧩 Desenvolvimento com React, Next.js e TypeScript, aplicando componentização e boas práticas  
+- 🎯 Foco em código limpo, reutilizável e escalável  
+- 📚 Em constante evolução, aplicando na prática conceitos de UI/UX e arquitetura front-end  
+
+🔥 Atualmente desenvolvendo projetos reais para consolidar experiência de mercado  
 
 ---
 
