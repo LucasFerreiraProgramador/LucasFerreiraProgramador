@@ -56,11 +56,14 @@ com foco em performance e experiência do usuário.
 ---
 
 ## 🧩 Sobre mim
-- 💻 Desenvolvedor Front-End focado em aplicações web modernas  
-- 🎨 Experiência com criação de interfaces e consumo de APIs REST
-- 🚀 Interesse em React, Next.js, TypeScript e componentes reutilizáveis  
-- 📚 Sempre estudando e evoluindo (HTML, CSS, JS, APIs, Git…)  
-- 🔥 Criador do meu próprio blog em Next.js + Tailwind + Headless CMS  
+🧠 Desenvolvedor Front-End focado em criar interfaces modernas e performáticas
+
+🚀 Experiência prática com consumo de APIs REST e integração de sistemas
+⚛️ Desenvolvimento com React, Next.js e TypeScript, aplicando componentização e boas práticas
+🎯 Foco em código limpo, reutilizável e escalável
+📚 Em constante evolução, aplicando na prática conceitos de UI/UX e arquitetura front-end
+
+🔥 Atualmente desenvolvendo projetos reais para consolidar experiência de mercado
 
 ---
 
