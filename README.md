@@ -8,7 +8,7 @@ com foco em performance e experiência do usuário.
 </p>
 
 ---
-
+ 
 ## 🚀 Skills
 <div align="left">
 
