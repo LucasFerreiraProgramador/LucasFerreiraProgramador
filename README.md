@@ -46,7 +46,7 @@ com foco em performance e experiência do usuário.
 
 ---
 
-## 📊 Estatísticas 
+## 📊 Estatísticas  
 <div align="center">
 
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFerreiraProgramador&layout=compact&langs_count=6&theme=dark&hide_border=true"/>
